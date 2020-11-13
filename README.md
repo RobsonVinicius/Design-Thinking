@@ -38,6 +38,7 @@
 + [Design Thinking - Hipsters #139](https://cursos.alura.com.br/hipsterstech-design-thinking-hipsters-139-a442)
 + [Design Sprint – Hipsters #23](https://hipsters.tech/design-sprint-hipsters-23/)
 
+<br>
 
 ### 📝 Documentação de Estudo:
 
