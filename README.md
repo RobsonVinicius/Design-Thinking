@@ -1,8 +1,6 @@
-# Design-Thinking
-
 <div align="center">
  
- ![Design Thinking Logo](Scrum%20-%20Agilidade%20em%20seu%20projeto/imagens/scrum-1.png)
+ # Design-Thinking
 
  ### Repositório criado para documentação de estudos em Design Thinking
   
@@ -12,7 +10,6 @@
 ### 📰 Posts
 
 + [Design Thinking: inovação e criatividade](https://www.alura.com.br/artigos/design-thinking-inovacao-criatividade)
-
 + [Qual a diferença entre Design Thinking & Design Sprint?](https://medium.com/skillsweb/qual-a-diferen%C3%A7a-entre-design-thinking-design-sprint-a00de4cfe4e3)
 
 <br>
@@ -27,7 +24,6 @@
 ### 📚  Livros (Indicações): 
  
 + [The Field Guide to Human Centered Design](https://www.designkit.org//resources/1)
-
 + [About Face 3: The Essentials of Interaction Design](https://www.goodreads.com/book/show/289062.About_Face_3)
 
 <br>
@@ -35,7 +31,6 @@
 ### Podcasts: 
 
 + [Design Thinking - Hipsters #139](https://cursos.alura.com.br/hipsterstech-design-thinking-hipsters-139-a442)
-
 + [Design Sprint – Hipsters #23](https://hipsters.tech/design-sprint-hipsters-23/)
 
 
