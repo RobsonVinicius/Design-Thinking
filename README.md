@@ -1,7 +1,10 @@
 <div align="center">
  <br><br>
+ 
  # Design Thinking
+ 
 <br><br>
+
  ### Repositório criado para documentação de estudos em Design Thinking
   
 </div>
