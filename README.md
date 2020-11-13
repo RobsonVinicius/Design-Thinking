@@ -1,6 +1,5 @@
 # Design-Thinking
 
-<<<<<<< HEAD
 <div align="center">
  
  ![Design Thinking Logo](Scrum%20-%20Agilidade%20em%20seu%20projeto/imagens/scrum-1.png)
@@ -48,6 +47,3 @@
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos
 
 
-=======
-[About Face](https://www.goodreads.com/book/show/289062.About_Face_3)
->>>>>>> b1fa4df8b603cbd2bef99182b1d2bde946ba24b2
