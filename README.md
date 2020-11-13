@@ -3,12 +3,13 @@
  
  # Design Thinking
  
-<br><br>
+<br>
 
  ### Repositório criado para documentação de estudos em Design Thinking
   
 </div>
 
+<br>
 
 ### 📰 Posts
 
