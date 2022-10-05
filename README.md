@@ -20,7 +20,7 @@
 + [A jornada do design thinking - Lewrick, Link, Leifer](https://amzn.to/3V359rU)
 + [Design Thinking Para Leigos: Os Primeiros Passos Para o Sucesso - Christian Muller-Roterberg](https://amzn.to/3Ceskqs) | [Versão Kindle](https://amzn.to/3EfKVFo)
 + [Design Thinking: Inovação em negócios - Maurício, Ysmar, Adler, Lucena, Russo](https://amzn.to/3Cdcjky) | [Versão Kindle](https://amzn.to/3Cdcjky)
-
++ [Do design thinking ao design doing - Jon Kolko](https://amzn.to/3EiX24s) | [Versão Kindle](https://amzn.to/3CAdJHd)
 
 
 <br>
