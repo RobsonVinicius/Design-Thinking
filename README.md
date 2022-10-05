@@ -30,6 +30,10 @@
  
 + [The Field Guide to Human Centered Design](https://www.designkit.org//resources/1)
 + [About Face 3: The Essentials of Interaction Design](https://www.goodreads.com/book/show/289062.About_Face_3)
++ [Design Thinking: uma metodologia poderosa para decretar o fim das velhas ideias - Tim Brown](https://amzn.to/3RwjOsJ) | [Versão Kndle](https://amzn.to/3rwLy60)
+
+
+
 
 <br>
 
