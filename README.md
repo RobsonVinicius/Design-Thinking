@@ -19,7 +19,7 @@
 + [About Face 3: The Essentials of Interaction Design](https://www.goodreads.com/book/show/289062.About_Face_3)
 + [A jornada do design thinking - Lewrick, Link, Leifer](https://amzn.to/3V359rU)
 + [Design Thinking Para Leigos: Os Primeiros Passos Para o Sucesso - Christian Muller-Roterberg](https://amzn.to/3Ceskqs) | [Versão Kindle](https://amzn.to/3EfKVFo)
-
++ [Design Thinking: Inovação em negócios - Maurício, Ysmar, Adler, Lucena, Russo] | [Versão Kindle](https://amzn.to/3Cdcjky)
 
 
 
