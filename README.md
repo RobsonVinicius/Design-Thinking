@@ -13,10 +13,12 @@
 
 ### 📚 Livros (Indicações): 
  
++ [Design Thinking: uma metodologia poderosa para decretar o fim das velhas ideias - Tim Brown](https://amzn.to/3RwjOsJ) | [Versão Kindle](https://amzn.to/3rwLy60)
++ [Design Thinking - Ambrose, Harris](https://amzn.to/3SX3OB8) | [Versão Kindle](https://amzn.to/3CamKFM) 
 + [The Field Guide to Human Centered Design](https://www.designkit.org//resources/1)
 + [About Face 3: The Essentials of Interaction Design](https://www.goodreads.com/book/show/289062.About_Face_3)
-+ [Design Thinking: uma metodologia poderosa para decretar o fim das velhas ideias - Tim Brown](https://amzn.to/3RwjOsJ) | [Versão Kindle](https://amzn.to/3rwLy60)
-+ [Design Thinking - Ambrose, Harris](https://amzn.to/3SX3OB8) | [Versão Kindle](https://amzn.to/3CamKFM)
++ [A jornada do design thinking - Lewrick, Link, Leifer](https://amzn.to/3V359rU)
+
 
 <br>
 
