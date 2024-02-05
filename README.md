@@ -22,6 +22,7 @@
 + [Design Thinking: Inovação em negócios - Maurício, Ysmar, Adler, Lucena, Russo](https://amzn.to/3Cdcjky) | [Versão Kindle](https://amzn.to/3Cdcjky)
 + [Do design thinking ao design doing - Jon Kolko](https://amzn.to/3EiX24s) | [Versão Kindle](https://amzn.to/3CAdJHd)
 + [Isto é Design Thinking de Serviços - Marc Stickdorn, Jakob Schneider](https://www.amazon.com.br/Isto-Design-Thinking-Servi%C3%A7os-Fundamentos/dp/8582602170/ref=as_li_ss_tl?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=design+thinking&qid=1584887401&s=books&sr=1-3&swrs=DB46E06C8DD13A0AD4FCC289DE434163&linkCode=sl1&tag=ul0dd-20&linkId=d1bf32fce3b676bd9ddec841e1c4a727&language=pt_BR)
++ [Design Thinking na educação presencial, à distância e corporativa](https://www.amazon.com.br/Thinking-Educa%C3%A7%C3%A3o-Presencial-Dist%C3%A2ncia-Corporativa/dp/8547215786/ref=as_li_ss_tl?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=design+thinking&qid=1584887401&s=books&sr=1-5&swrs=DB46E06C8DD13A0AD4FCC289DE434163&linkCode=sl1&tag=ul0dd-20&linkId=65610f26ba4b029cc12941192e1f42a2&language=pt_BR)
 
 
 <br>
