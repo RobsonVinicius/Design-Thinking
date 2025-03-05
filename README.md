@@ -16,7 +16,8 @@
 | Capa | Livro | Autor | Livro Físico | Versão Kindle | 
 | --- | --- | --- | :---: | :---: |
 | <img src="https://m.media-amazon.com/images/I/81JRryNOO8L._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Design Thinking: Uma metodologia poderosa para decretar o fim das velhas ideias  | Tim Brown | [Veja Mais](https://amzn.to/3RwjOsJ) | [Veja Mais](https://amzn.to/4h7QFkc)|
- 
+| <img src="https://m.media-amazon.com/images/I/61OWkLXe6rL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Design Thinking  | Ambrose, Harris | [Veja Mais](https://amzn.to/41khkEC) | [Veja Mais](https://amzn.to/41GYKb5)|
+
 + [Design Thinking: uma metodologia poderosa para decretar o fim das velhas ideias - Tim Brown](https://amzn.to/3RwjOsJ) | [Versão Kindle](https://amzn.to/3rwLy60)
 + [Design Thinking - Ambrose, Harris](https://amzn.to/3SX3OB8) | [Versão Kindle](https://amzn.to/3CamKFM) 
 + [The Field Guide to Human Centered Design](https://www.designkit.org//resources/1)
